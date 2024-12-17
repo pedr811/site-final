@@ -1,0 +1,71 @@
+.container	{
+			margin: 0 auto;
+			width: 940px;
+			background:#000000;
+	}
+	.menu-opcoes ul li	{
+			display:	inline;
+			padding: 15px;
+			align-items:right;
+	}
+	.menu-opcoes	{
+			position:	relative;
+			
+	}
+	h1	{
+		font-family:	serif;
+		padding: 10px;
+		padding: 0 400px;
+}
+	h2	{
+		font-family:	sans-serif;
+		margin-top: 30px;
+		padding: 0 400px;
+}
+	h3 {
+	padding: 0 400px;
+}
+	h4{
+		padding: 0 400px;
+	}
+	
+	p	{
+		padding: 0 400px;
+		text-indent: 15px;
+		font-family:	Lucida;
+	}
+	figure	{
+		padding: 0 400px;
+		margin: 30px;
+		margin-left:	center;
+		margin-right:	center;
+		width: 550px;
+		
+
+	}
+	
+	
+	body{
+		color: #333333;
+		font-family: "Lucida	Sans	Unicode",	"Lucida	Grande",	sans-serif;
+		margin-left:	auto;
+		margin-right:	auto;
+		background:#696969;
+		
+	}
+	.video{	
+	margin:0 400px;
+	}
+	footer{
+		margin:0 400px;
+		background:	#000000;
+	}
+	.topo{
+		margin-right :auto;
+		align-items:left;
+		top:1px;
+		background:	#000000;
+		margin:40 400px;
+		
+	}
+	
